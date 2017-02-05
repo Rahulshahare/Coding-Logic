@@ -12,6 +12,6 @@
     coding, and how that actully works. and so many things. but at that point i wasnt able to understand this much 
     bcz that class was just for preparing myself for getting passing marks only.
 
-    ## Actul start of coding
+## Actul start of coding
 
 
