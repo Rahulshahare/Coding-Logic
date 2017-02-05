@@ -8,7 +8,10 @@
     turning point for me regarding COMPUTER CODING.
 
     Sir told me about how actully computer perform, how memory work, how we use the memery, what is programming 
-    language and what about variables, cout and cin statement from c++. sir told me history and background about coding,
-    and how that actully works. and so many things. but at that point i wasnt able to understand this much bcz that class 
-    was just for preparing myself for getting passing marks only.   
+    language and what about variables, cout and cin statement from c++. sir told me history and background about
+    coding, and how that actully works. and so many things. but at that point i wasnt able to understand this much 
+    bcz that class was just for preparing myself for getting passing marks only.
+
+    ## Actul start of coding
+
 
