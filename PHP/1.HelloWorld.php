@@ -20,4 +20,15 @@ echo"HELLO WORLD";
                     Searh interpreter or compiler to know more about it and how it works. 
 */
 
+/*
+  Things You might like :
+        Que : What is difference between Compiler & Interpreter & Assembler?
+        Ans :
+            Compiler : Compilers are used to convert high level languages (like C, C++ ) into machine code . 
+            Assembers : Assembler are used to convert assembly language code into machine code. 
+            Interpreter : An interpreter is a computer program which executes a statement directly (at runtime).
+
+
+*/
+
 ?>
